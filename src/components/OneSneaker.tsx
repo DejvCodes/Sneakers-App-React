@@ -10,7 +10,7 @@ const OneSneaker = ({id, image, brand, fullName, price, styleColor}: Sneaker) =>
       initial={{opacity: 0, y: 20}}
       animate={{opacity: 1, y: 0}}
       transition={{delay: id * 0.1, duration: 0.4}}
-      className='w-card-w h-card-h rounded-3xl shadow-card hover:shadow-card-hover border border-white transition-all duration-200 ease-linear p-[22px]'
+      className='w-card-w h-card-h rounded-3xl shadow-card hover:shadow-card-hover border border-white transition-all duration-200 ease-linear p-5.5'
     >
       <img 
         src={image} 
