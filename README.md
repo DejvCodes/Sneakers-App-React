@@ -32,19 +32,19 @@ about their favorite footwear, featuring smooth animations and a responsive desi
 ```
 src/
 ├── pages/
-│   ├── AllSneakers.tsx      # Main gallery page with search
-│   └── SneakerDetails.tsx   # Individual sneaker details
+│   ├── AllSneakers.tsx        # Main gallery page with search
+│   └── SneakerDetails.tsx     # Individual sneaker details
 ├── components/
-│   └── OneSneaker.tsx       # Sneaker card component
+│   └── OneSneaker.tsx         # Sneaker card component
 ├── data/
-│   └── sneakers-app-data.ts # Sneaker data collection
-├── types/                   # TypeScript type definitions
-├── function/                # Utility functions
-├── images/                  # Image assets
-├── App.tsx                  # Main app component with routing
-└── main.tsx                 # Application entry point
+│   └── sneakers-app-data.ts   # Sneaker data collection
+├── types/                     # TypeScript type definitions
+├── function/                  # Utility functions
+├── images/                    # Image assets
+├── App.tsx                    # Main app component with routing
+└── main.tsx                   # Application entry point
 
-public/                      # Static assets
+public/                        # Static assets
 ```
 
 ## 🔐 License
