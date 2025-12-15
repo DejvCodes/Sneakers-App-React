@@ -1,4 +1,4 @@
-import formatPrice from '../function/FormatPrice';
+import formatPrice from '../function/formatPrice';
 import type {Sneaker} from '../types/types';
 import {Link} from 'react-router-dom';
 import {motion} from 'framer-motion';
