@@ -16,7 +16,7 @@ about their favorite footwear, featuring smooth animations and a responsive desi
 
 ## 🏃🏻 How to Run this App 
 1. Clone the repository: <br>
-    • `git clone https://github.com/DejvCodes/sneakers-app.git` <br>
+    • `git clone https://github.com/DejvCodes/Sneakers-App-React.git` <br>
     • `cd sneakers-app` <br>
 2. Install dependencies: <br>
     • `npm install` <br>
@@ -24,8 +24,6 @@ about their favorite footwear, featuring smooth animations and a responsive desi
     • `npm run dev` <br>
 4. Build for production: <br>
     • `npm run build` <br>
-5. Preview production build: <br>
-    • `npm run preview` <br>
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,tailwind)](https://skillicons.dev)
