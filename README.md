@@ -14,7 +14,7 @@ about their favorite footwear, featuring smooth animations and a responsive desi
 • **Fast Performance** – Lightning-fast development and build times with Vite. <br>
 • **Type Safety** – Full TypeScript support for better code quality and developer experience. <br>
 
-## 🏃🏻 How to Run this App 
+## 🏃🏻 How to Run this App
 1. Clone the repository: <br>
     • `git clone https://github.com/DejvCodes/Sneakers-App-React.git` <br>
     • `cd sneakers-app` <br>
