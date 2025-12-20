@@ -38,8 +38,10 @@ src/
 │   └── OneSneaker.tsx         # Sneaker card component
 ├── data/
 │   └── sneakers-app-data.ts   # Sneaker data collection
-├── types/                     # TypeScript type definitions
-├── function/                  # Utility functions
+├── types/
+│   └── types.ts               # TypeScript type definitions
+├── function/
+│   └── formatPrice.ts         # Utility functions
 ├── images/                    # Image assets
 ├── App.tsx                    # Main app component with routing
 └── main.tsx                   # Application entry point
