@@ -3,7 +3,7 @@ A modern and sleek web application for browsing and exploring premium sneaker co
 This application provides an intuitive interface for sneaker enthusiasts to discover detailed information 
 about their favorite footwear, featuring smooth animations and a responsive design optimized for all devices.
 
-## 🚀 Features 
+## 🚀 Features
 • **Modern React Architecture** – Built with React 19 and TypeScript for type-safe development. <br>
 • **Smooth Animations** – Powered by Framer Motion for fluid transitions and effects. <br>
 • **Responsive Design** – Fully optimized for desktop, tablet, and mobile devices using Tailwind CSS. <br>
